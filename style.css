@@ -1,0 +1,17 @@
+body {
+  font-family: Times, Georgia, serif;
+  font-size: 13pt; 
+  color: #130D0D; 
+  text-align: justify;
+  margin-left: 60px; 
+  margin-right: 10px;
+  background-image: url(images/abstrakciya.jpg);
+  background-repeat: no-repeat;
+}
+  div {
+  background-image: url(images/Liszt.jpg); 
+  background-position:right 5% bottom 1%;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  box-shadow: 0px 0px 30px 0px rgba(0,0,0,0.9);
+}
