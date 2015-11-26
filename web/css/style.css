@@ -5,11 +5,11 @@ body {
   text-align: justify;
   margin-left: 60px; 
   margin-right: 10px;
-  background-image: url(images/abstrakciya.jpg);
+  background-image: url(../img/abstrakciya.jpg);
   background-repeat: no-repeat;
 }
   div {
-  background-image: url(images/Liszt.jpg); 
+  background-image: url(../img/Liszt.jpg); 
   background-position:right 5% bottom 1%;
   background-repeat: no-repeat;
   border-radius: 10px;
